@@ -5,5 +5,6 @@ public class Duoming {
         System.out.println("duming");
         System.out.println("duming");
         System.out.println("duming");
+        System.out.println("duming");
     }
 }
